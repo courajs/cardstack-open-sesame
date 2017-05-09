@@ -22,8 +22,11 @@
     "start": "ember server",
     "test": "ember try:each"
   },
+  "peerDependencies": {
+    "@cardstack/hub": "^0.0.11",
+    "@cardstack/authentication": "^0.0.11"
+  },
   "dependencies": {
-    "@cardstack/authentication": "^0.0.9",
     "ember-cli-babel": "^6.0.0-beta.3"
   },
   "devDependencies": {
