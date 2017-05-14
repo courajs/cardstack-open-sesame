@@ -1,7 +1,7 @@
 {
   "name": "cardstack-open-sesame",
   "version": "1.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "A simple password-based Cardstack authentication plugin",
   "keywords": [
     "ember-addon",
     "cardstack-plugin"
